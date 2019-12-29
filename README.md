@@ -2,6 +2,10 @@
 
 A Flutter project for Vizir developer test.
 
+## Screenshots
+- [Home Page](screenshot1.jpeg)
+- [Result Page](screenshot2.jpeg)
+
 ## Getting Started
 
 This project is a Flutter application.
