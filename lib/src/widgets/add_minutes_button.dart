@@ -22,7 +22,7 @@ class AddMinutesButton extends StatelessWidget {
             ),
             child: Center(
               child: Text(
-                '${minutes > 0 ? '+' : ''} $minutes',
+                '${minutes > 0 ? '+' : ''}$minutes',
                 style: TextStyle(
                   color: Colors.white,
                   fontWeight: FontWeight.bold,
